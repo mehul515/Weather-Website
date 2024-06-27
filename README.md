@@ -1,7 +1,5 @@
-# Weather Forecast Website
-A React.js-based weather website using a public API to display real-time weather conditions and forecasts for global locations. 
-
-This project is a weather forecast website built using React.js and a public weather API, providing real-time weather updates for locations worldwide.
+# Weather Juction
+Weather Junction is a minimalist weather website built using React, designed to provide users with current weather information and forecasts. It offers a clean, user-friendly interface where users can quickly access weather data for their location or any specified city worldwide. It provides current weather conditions and basic forecasts, ensuring a straightforward and informative experience for users seeking quick weather updates. This project is a weather forecast website built using React.js and a public weather API, providing real-time weather updates for locations worldwide.
 
 ## Installation
 
@@ -19,7 +17,3 @@ This project is a weather forecast website built using React.js and a public wea
 - React.js
 - Public Weather API (openweathermap.org)
 - Material UI
-
-## Contributing
-
-Contributions are welcome! Feel free to open issues or submit pull requests for any improvements or features.
