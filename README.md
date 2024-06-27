@@ -1,5 +1,5 @@
 # Weather Forecast Website
-A React.js-based A weather website using a public API to display real-time weather conditions and forecasts for global locations. 
+A React.js-based weather website using a public API to display real-time weather conditions and forecasts for global locations. 
 
 This project is a weather forecast website built using React.js and a public weather API, providing real-time weather updates for locations worldwide.
 
